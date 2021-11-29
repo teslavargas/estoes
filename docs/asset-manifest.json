@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/estoes/static/css/main.ddfb809a.chunk.css",
+    "main.js": "/estoes/static/js/main.b9953af8.chunk.js",
+    "main.js.map": "/estoes/static/js/main.b9953af8.chunk.js.map",
+    "runtime-main.js": "/estoes/static/js/runtime-main.1a5b3f9c.js",
+    "runtime-main.js.map": "/estoes/static/js/runtime-main.1a5b3f9c.js.map",
+    "static/js/2.eb22bc09.chunk.js": "/estoes/static/js/2.eb22bc09.chunk.js",
+    "static/js/2.eb22bc09.chunk.js.map": "/estoes/static/js/2.eb22bc09.chunk.js.map",
+    "static/js/3.f689e198.chunk.js": "/estoes/static/js/3.f689e198.chunk.js",
+    "static/js/3.f689e198.chunk.js.map": "/estoes/static/js/3.f689e198.chunk.js.map",
+    "index.html": "/estoes/index.html",
+    "static/css/main.ddfb809a.chunk.css.map": "/estoes/static/css/main.ddfb809a.chunk.css.map",
+    "static/js/2.eb22bc09.chunk.js.LICENSE.txt": "/estoes/static/js/2.eb22bc09.chunk.js.LICENSE.txt",
+    "static/media/arrow.8d2ce4ea.svg": "/estoes/static/media/arrow.8d2ce4ea.svg",
+    "static/media/avatar.e9e14088.png": "/estoes/static/media/avatar.e9e14088.png",
+    "static/media/delete.4ed71512.svg": "/estoes/static/media/delete.4ed71512.svg",
+    "static/media/edit.e499d236.svg": "/estoes/static/media/edit.e499d236.svg",
+    "static/media/logo.6ce24c58.svg": "/estoes/static/media/logo.6ce24c58.svg",
+    "static/media/menu.85d71d40.svg": "/estoes/static/media/menu.85d71d40.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1a5b3f9c.js",
+    "static/js/2.eb22bc09.chunk.js",
+    "static/css/main.ddfb809a.chunk.css",
+    "static/js/main.b9953af8.chunk.js"
+  ]
+}
