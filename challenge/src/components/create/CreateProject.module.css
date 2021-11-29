@@ -1,0 +1,82 @@
+@media (min-width: 360px) {
+  .create {
+    width: 360px;
+    height: 40px;
+    display: flex;
+    justify-content: left;
+    align-items: center;
+    background-color: #ffff;
+    box-shadow: inset 0px -1px 0px #adadad;
+    margin-bottom: 15px;
+  }
+  .create h1 {
+    color: #000000d9;
+    font-size: 16px;
+  }
+
+  .back {
+    color: #000000a6;
+    font-size: 12px;
+    margin-right: 10px;
+  }
+  .arrowBack {
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    margin-left: 10px;
+  }
+  .arrowBack img {
+    margin-right: 5px;
+  }
+  .inputContainer input,
+  select {
+    width: 328px;
+    height: 35px;
+    border-radius: 3px;
+    border: 1px solid #acacac;
+    margin-bottom: 20px;
+  }
+  .inputContainer select,
+  option {
+    color: #595959;
+  }
+  .inputContainer h3 {
+    color: #262626;
+    font-size: 14px;
+    font-weight: 500;
+    display: flex;
+    justify-content: flex-start;
+    margin-left: 5px;
+    margin: 0;
+  }
+  .title h3 {
+    margin-left: 15px;
+    margin-bottom: 5px;
+  }
+  .btn {
+    width: 98px;
+    height: 32px;
+    background-color: #F5222D;
+    border: none;
+    color: #FFFFFF;
+    border-radius: 3px;
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    margin-left: 15px;
+  }
+  .form {
+      background-color: #FFFFFF;
+      padding-bottom: 5px;
+      padding-top: 10px;
+      box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.15);
+  }
+  .notification{
+      font-size: 15px;
+      color: #04a70c;
+  }
+  .error{
+      font-size: 15px;
+      color: #F5222D;
+  }
+}
